@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Louail Wissam</h1>
-<h3 align="center">Cybersecurity Student | Software Developer | Security Enthusiast 🔐</h3>
+<h1 align="center">Hi , I'm Louail Wissam</h1>
+<h3 align="center">Cybersecurity Student | Software Developer | Security Enthusiast </h3>
 
 <p align="center">
   Passionate about cybersecurity, software development, and learning by building real-world projects.
